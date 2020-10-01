@@ -1,7 +1,7 @@
 Cello
 =====
 
-__Cello__ is a _library_ that brings higher level programming to C.
+__Cello__ is a _library_ that brings you to the higher level programming to C.
 
 By acting as a _modern_, _powerful_ runtime system Cello makes many things easy 
 that were previously impractical or awkward in C such as:
